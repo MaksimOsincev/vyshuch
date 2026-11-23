@@ -1,0 +1,9 @@
+p::first-letter{
+    color: red;
+    font-size: 25px
+    
+}
+p{
+    width: 600px;
+    height: 100px;
+}
