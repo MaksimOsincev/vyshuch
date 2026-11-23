@@ -1,0 +1,8 @@
+pre {
+    width: 740px;
+    height: 50px;
+    
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid gray;  
+    background-color: azure;
+}
