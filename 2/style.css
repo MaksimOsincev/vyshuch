@@ -10,3 +10,6 @@ p{
 span{
     text-transform: uppercase;
 }
+#ft{
+    text-transform: capitalize;
+}
