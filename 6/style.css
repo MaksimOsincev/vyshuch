@@ -1,0 +1,6 @@
+pre {
+    width: 500px;
+    height: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    white-space: pre-wrap; 
+}
