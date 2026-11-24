@@ -1,0 +1,5 @@
+div{
+    width: 80%;
+    border: 1px solid red;
+    column-width: 300px;
+}
