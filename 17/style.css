@@ -1,0 +1,9 @@
+#ff::selection{
+color: green;
+background-color: black;
+}
+#ff{
+	margin: auto;
+	width: 700px;
+	text-align: justify;
+}
