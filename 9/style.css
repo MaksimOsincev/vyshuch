@@ -25,3 +25,16 @@ overflow: hidden;
 overflow: hidden;
 text-overflow: ellipsis;
 }
+#fs{
+    margin-top: 50px;
+    width: 200px;
+    border: 1px solid red;
+    white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+}
+#fs:hover{
+    height: auto;
+    white-space: normal;
+    
+}
