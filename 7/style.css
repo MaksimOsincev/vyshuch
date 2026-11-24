@@ -8,9 +8,14 @@ pre {
 }
 #dd{
 font-family: 'Times New Roman', Times, serif;
-font-size: 15px;
 background-color: azure;
 border: gray;
 padding: 10px;
 tab-size: 4;
+}
+#ds{
+    white-space: pre;
+    padding: 10px;
+font-family: 'Times New Roman', Times, serif;
+tab-size: 2;
 }
