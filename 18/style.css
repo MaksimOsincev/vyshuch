@@ -1,0 +1,12 @@
+table {
+	border-collapse: separate;
+	width: 200px;
+	border-spacing: 0;
+    border: 1px solid black;
+}
+td {
+    background-color: rgb(17, 224, 107);
+	border: 1px solid black;
+	text-align: center;
+    color: white;
+}
