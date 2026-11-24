@@ -3,3 +3,9 @@
     border: 1px solid red;
     user-select: none;
 }
+#gf{
+    user-select: none;
+}
+.num{
+    user-select: none;
+}
