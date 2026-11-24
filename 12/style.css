@@ -11,3 +11,17 @@ div{
     text-decoration-style: dotted;
     text-decoration-color: red;
 }
+#fg{
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: red;
+}
+#fd{
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: red;
+}
