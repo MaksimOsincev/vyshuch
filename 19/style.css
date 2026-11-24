@@ -12,3 +12,21 @@ td {
 	text-align: center;
     color: white;
 }
+#gg{
+	margin-top: 50px;
+	border-collapse: separate;
+	width: 200px;
+	border-spacing: 0;
+    border: 1px solid black;
+	border-spacing: 15px;
+	border-collapse: separate;
+}
+#gh{
+	margin-top: 50px;
+	border-collapse: separate;
+	width: 200px;
+	border-spacing: 0;
+    border: 1px solid black;
+	border-spacing: 20px;
+	border-collapse: separate;
+}
