@@ -26,5 +26,14 @@ div{
 }
 #fs:hover{
     height: auto;
-    
+}
+#fd{
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+    margin-top: 50px;
+}
+img{
+    width: 450px;
+    height: auto;
 }
