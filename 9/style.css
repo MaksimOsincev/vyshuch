@@ -3,3 +3,10 @@ div{
     border: 1px solid red;
     white-space: nowrap;
 }
+#ff{
+    margin-top: 50px;
+    width: 200px;
+    border: 1px solid red;
+    white-space: nowrap;
+overflow-x: auto;
+}
