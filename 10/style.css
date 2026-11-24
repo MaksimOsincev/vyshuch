@@ -1,0 +1,11 @@
+#ff{
+    width: 200px;
+    word-break: normal;
+    border: 1px solid red;
+}
+#gg{
+    margin-top: 50px;
+    width: 200px;
+    overflow-wrap: break-word;
+    border: 1px solid red;
+}
