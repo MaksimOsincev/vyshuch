@@ -39,3 +39,25 @@ td {
 	empty-cells: hide;
 	vertical-align: super;
 }
+#gh {
+	margin-top: 50px;
+	border-collapse: separate;
+	width: 400px;
+	height: 250px;
+	border-spacing: 0;
+    border: 1px solid black;
+	border-spacing: 10px;
+	border-collapse: separate;
+	
+}
+#ww {
+	width: auto;
+	height: auto;
+    background-color: rgb(3, 223, 154);
+	border: 1px solid black;
+	text-align: center;
+    color: white;
+	empty-cells: hide;
+	vertical-align: top;
+	text-align: right;
+}
