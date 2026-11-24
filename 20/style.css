@@ -1,0 +1,16 @@
+table {
+	border-collapse: separate;
+	width: 200px;
+	border-spacing: 0;
+    border: 1px solid black;
+	border-spacing: 10px;
+	border-collapse: separate;
+	
+}
+td {
+    background-color: rgb(17, 224, 107);
+	border: 1px solid black;
+	text-align: center;
+    color: white;
+	empty-cells: hide;
+}
