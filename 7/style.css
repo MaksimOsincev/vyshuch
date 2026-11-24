@@ -1,8 +1,16 @@
 pre {
-    width: 740px;
+    width: 795px;
     height: 50px;
     
     font-family: 'Times New Roman', Times, serif;
     border: 1px solid gray;  
     background-color: azure;
+}
+#dd{
+font-family: 'Times New Roman', Times, serif;
+font-size: 15px;
+background-color: azure;
+border: gray;
+padding: 10px;
+tab-size: 4;
 }
