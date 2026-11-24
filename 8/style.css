@@ -51,3 +51,18 @@ img{
     border: 1px solid red;
     overflow: hidden;
 }
+#fx{
+   margin-top: 50px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+#fz{
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+    border: 1px solid red;
+overflow-y: scroll;
+}
