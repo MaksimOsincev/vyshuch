@@ -17,3 +17,11 @@ overflow-x: auto;
     white-space: nowrap;
 overflow: hidden;
 }
+#fd{
+    margin-top: 50px;
+    width: 200px;
+    border: 1px solid red;
+    white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+}
