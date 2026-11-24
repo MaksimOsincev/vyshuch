@@ -1,0 +1,23 @@
+
+#gf {
+	margin-top: 50px;
+	border-collapse: separate;
+	width: 400px;
+	height: 250px;
+	border-spacing: 0;
+    border: 1px solid black;
+	border-spacing: 10px;
+	border-collapse: separate;
+	
+}
+#we {
+	width: auto;
+	height: auto;
+    background-color: rgb(3, 223, 154);
+	border: 1px solid black;
+	text-align: center;
+    color: white;
+	text-align: center;
+	vertical-align: middle;
+	table-layout: fixed;
+}
