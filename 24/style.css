@@ -1,0 +1,7 @@
+#ff{
+	counter-reset: test;
+}
+#ff p::before{
+	counter-increment: test;
+	content: counter(test) ".";
+}
