@@ -3,3 +3,8 @@ textarea{
     height: 50px;
     width: 100px;
 }
+#ff{
+    resize: vertical;
+    height: 50px;
+    width: 100px;
+}
