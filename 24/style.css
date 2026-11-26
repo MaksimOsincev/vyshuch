@@ -3,5 +3,5 @@
 }
 #ff p::before{
 	counter-increment: test;
-	content: counter(test) ".";
+	content: "№"counter(test) ".";
 }
