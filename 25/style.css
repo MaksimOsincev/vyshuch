@@ -1,0 +1,21 @@
+/* 1. Делаем ссылку точкой отсчета для подсказки */
+a {
+    position: relative;
+    text-decoration: none;
+    color: blue;
+	top: 50px;
+}
+
+a::before {
+    content: attr(href);
+    position: absolute; 
+    bottom: 100%;
+    left: 0;
+    opacity: 0; 
+    visibility: hidden;
+}
+
+a:hover::before {
+    opacity: 1;
+    visibility: visible;
+}
