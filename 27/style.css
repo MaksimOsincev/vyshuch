@@ -1,0 +1,10 @@
+#gg{
+    width: max(300px, 50%);
+    height: 100px;
+    border: 1px solid blueviolet;
+    margin: 0 auto;
+}
+#ff{
+    border: 1px solid hotpink;
+    margin-bottom: 50px;
+}
