@@ -1,0 +1,5 @@
+textarea{
+    resize: horizontal;
+    height: 50px;
+    width: 100px;
+}
