@@ -1,4 +1,4 @@
 input:focus {
-    border: 2px solid red;
-    outline: none;    
+    
+    outline: 1px solid red;    
 }
