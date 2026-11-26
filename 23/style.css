@@ -1,3 +1,13 @@
 li::after{
 	content: ".";
 }
+span::after{
+	content: "";
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	background-color: red;
+	margin-right: 0;
+	margin-top: -3px;
+	
+}
