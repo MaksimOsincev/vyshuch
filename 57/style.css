@@ -1,6 +1,12 @@
 #ff{
     width: 200px;
     height: 200px;
-    box-shadow: 15px 20px 5px red;
+    box-shadow: 20px 15px 5px red;
+    border: 1px solid black;
+}
+#fg{
+    width: 200px;
+    height: 200px;
+    box-shadow: 20px -15px  green;
     border: 1px solid black;
 }
