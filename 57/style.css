@@ -36,9 +36,14 @@
     border: 1px solid black;
 }
 #fw{
-    margin-left: 50px;
     width: 200px;
     height: 200px;
     box-shadow: 20px 30px 0px black;
+    border: 1px solid black;
+}
+#fq{
+    width: 200px;
+    height: 200px;
+    box-shadow: 20px 30px 9px black;
     border: 1px solid black;
 }
