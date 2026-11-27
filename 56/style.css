@@ -21,3 +21,6 @@
 #fw{
     text-shadow: 0 0 2px red;
 }
+#fq{
+    text-shadow: -8px -10px 3px blue, 8px 10px 3px red;
+}
