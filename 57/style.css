@@ -54,3 +54,9 @@
     box-shadow: 20px 30px 9px black, -30px -20px 9px black;
     border: 1px solid black;
 }
+#fv{
+    width: 200px;
+    height: 200px;
+    box-shadow: inset 5px 5px 9px black;
+    border: 1px solid black;
+}
