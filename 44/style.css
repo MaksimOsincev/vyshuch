@@ -1,4 +1,8 @@
 input:focus {
     
-    outline: 1px solid red;    
+    outline: 1px solid red;   
+}
+#ff:focus{
+    outline: 1px solid red;
+    box-shadow: 0 0 3px red;
 }
