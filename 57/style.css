@@ -16,3 +16,9 @@
     box-shadow: 0px 0px 5px black;
     border: 1px solid black;
 }
+#fs{
+    width: 200px;
+    height: 200px;
+    box-shadow: 4px 3px 3px black;
+    border: 1px solid black;
+}
