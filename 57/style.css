@@ -60,3 +60,9 @@
     box-shadow: inset 5px 5px 9px black;
     border: 1px solid black;
 }
+#fb{
+    width: 200px;
+    height: 200px;
+    box-shadow: inset 5px 5px 9px blue, inset -5px -5px 9px red;
+    border: 1px solid black;
+}
